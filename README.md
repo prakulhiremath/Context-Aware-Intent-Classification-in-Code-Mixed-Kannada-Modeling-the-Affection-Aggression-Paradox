@@ -1,6 +1,11 @@
-# Context-Aware Intent Classification in Code-Mixed Kannada
-
+# Context-Aware Intent Classification in Code-Mixed Kannada  
 ### Modeling the Affection–Aggression Paradox
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19698111-blue.svg)](https://doi.org/10.5281/zenodo.19698111)
+
+## Keywords
+
+code-mixed Kannada, Kannada NLP, intent classification, pragmatic intent, affectionate aggression, hate speech detection, toxicity classification, conversational context, role-aware modeling, context-aware NLP, multilingual NLP, low-resource languages, Indian language NLP, sociolinguistics, discourse analysis, transformer models, text classification, dataset annotation, conversational AI, social media analysis
 
 ---
 
